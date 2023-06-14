@@ -29,7 +29,7 @@ set (TESTBED_SOURCE_FILES
 	tests/compound_shapes.cpp
 	tests/confined.cpp
 	tests/continuous_test.cpp
-	tests/convex_hull.cpp
+	# tests/convex_hull.cpp
 	tests/conveyor_belt.cpp
 	tests/distance_joint.cpp
 	tests/distance_test.cpp
